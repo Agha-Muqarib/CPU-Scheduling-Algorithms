@@ -4,5 +4,5 @@ This repository contains the basic CPU Scheduling Algorithms from which an Opera
 
 * First Come First Serve (FCFS)
 * Shortest Job First (SJF)
-* Round Robin
-* Priority Scheduling.
+* Round Robin (RR)
+* Priority Scheduling Algorithm.
